@@ -1,0 +1,255 @@
+<edges>
+	<edge id="road_0_1_0" from="intersection_0_1" to="intersection_1_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+	
+	<edge id="road_0_2_0" from="intersection_0_2" to="intersection_1_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_0_3_0" from="intersection_0_3" to="intersection_1_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_0_1" from="intersection_1_0" to="intersection_1_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_1_0" from="intersection_1_1" to="intersection_2_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_1_1" from="intersection_1_1" to="intersection_1_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_1_2" from="intersection_1_1" to="intersection_0_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_1_3" from="intersection_1_1" to="intersection_1_0" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_2_0" from="intersection_1_2" to="intersection_2_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_2_1" from="intersection_1_2" to="intersection_1_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_2_2" from="intersection_1_2" to="intersection_0_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_2_3" from="intersection_1_2" to="intersection_1_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_3_0" from="intersection_1_3" to="intersection_2_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_3_1" from="intersection_1_3" to="intersection_1_4" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_3_2" from="intersection_1_3" to="intersection_0_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_3_3" from="intersection_1_3" to="intersection_1_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_1_4_3" from="intersection_1_4" to="intersection_1_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+
+	<edge id="road_2_0_1" from="intersection_2_0" to="intersection_2_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+
+	<edge id="road_2_1_0" from="intersection_2_1" to="intersection_3_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_1_1" from="intersection_2_1" to="intersection_2_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_1_2" from="intersection_2_1" to="intersection_1_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_1_3" from="intersection_2_1" to="intersection_2_0" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_2_0" from="intersection_2_2" to="intersection_3_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_2_1" from="intersection_2_2" to="intersection_2_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_2_2" from="intersection_2_2" to="intersection_1_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_2_3" from="intersection_2_2" to="intersection_2_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_3_0" from="intersection_2_3" to="intersection_3_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_3_1" from="intersection_2_3" to="intersection_2_4" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_3_2" from="intersection_2_3" to="intersection_1_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_3_3" from="intersection_2_3" to="intersection_2_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_2_4_3" from="intersection_2_4" to="intersection_2_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_0_1" from="intersection_3_0" to="intersection_3_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_1_0" from="intersection_3_1" to="intersection_4_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_1_1" from="intersection_3_1" to="intersection_3_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_1_2" from="intersection_3_1" to="intersection_2_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_1_3" from="intersection_3_1" to="intersection_3_0" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_2_0" from="intersection_3_2" to="intersection_4_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_2_1" from="intersection_3_2" to="intersection_3_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_2_2" from="intersection_3_2" to="intersection_2_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_2_3" from="intersection_3_2" to="intersection_3_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_3_0" from="intersection_3_3" to="intersection_4_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_3_1" from="intersection_3_3" to="intersection_3_4" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_3_2" from="intersection_3_3" to="intersection_2_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_3_3" from="intersection_3_3" to="intersection_3_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_3_4_3" from="intersection_3_4" to="intersection_3_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_0_1" from="intersection_4_0" to="intersection_4_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_1_0" from="intersection_4_1" to="intersection_5_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_1_1" from="intersection_4_1" to="intersection_4_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_1_2" from="intersection_4_1" to="intersection_3_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_1_3" from="intersection_4_1" to="intersection_4_0" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_2_0" from="intersection_4_2" to="intersection_5_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_2_1" from="intersection_4_2" to="intersection_4_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_2_2" from="intersection_4_2" to="intersection_3_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+
+	<edge id="road_4_2_3" from="intersection_4_2" to="intersection_4_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+
+	<edge id="road_4_3_0" from="intersection_4_3" to="intersection_5_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_3_1" from="intersection_4_3" to="intersection_4_4" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_3_2" from="intersection_4_3" to="intersection_3_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_3_3" from="intersection_4_3" to="intersection_4_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_4_4_3" from="intersection_4_4" to="intersection_4_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_5_1_2" from="intersection_5_1" to="intersection_4_1" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_5_2_2" from="intersection_5_2" to="intersection_4_2" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+	<edge id="road_5_3_2" from="intersection_5_3" to="intersection_4_3" numLanes="3"  width="4"  priority = '100'> 
+		<lane index="0" allow="pedestrian"/>
+	</edge>
+
+
+</edges>

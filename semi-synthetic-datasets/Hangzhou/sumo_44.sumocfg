@@ -1,0 +1,17 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="sumo44.net.xml" />
+        <route-files value="Hangzhou_mixed.rou.xml" /></input>
+
+
+    <processing>
+        <time-to-teleport value="-1" />
+        <ignore-junction-blocker value="1" />
+	<ignore-route-errors value="true" />
+    </processing>
+    <report>
+        <no-step-log value="true" />
+    </report>
+
+</configuration>

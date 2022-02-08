@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+
+<node id="intersection_0_1" x="-400.0" y="0" type="priority"/> 
+<node id="intersection_0_2" x="-400.0" y="800" type="priority"/> 
+<node id="intersection_0_3" x="-400.0" y="1600" type="priority"/>
+
+<node id="intersection_1_0" x="0" y="-800" type="priority"/>
+<node id="intersection_1_1" x="0" y="0" type="traffic_light"/>
+<node id="intersection_1_2" x="0" y="800" type="traffic_light"/>
+<node id="intersection_1_3" x="0" y="1600" type="traffic_light"/>
+<node id="intersection_1_4" x="0" y="2400" type="priority"/>
+
+
+<node id="intersection_2_0" x="400" y="-800" type="priority"/>
+<node id="intersection_2_1" x="400" y="0" type="traffic_light"/>
+<node id="intersection_2_2" x="400" y="800" type="traffic_light"/>
+<node id="intersection_2_3" x="400" y="1600" type="traffic_light"/>
+<node id="intersection_2_4" x="400" y="2400" type="priority"/>
+
+<node id="intersection_3_0" x="800" y="-800" type="priority"/>
+<node id="intersection_3_1" x="800" y="0" type="traffic_light"/>
+<node id="intersection_3_2" x="800" y="800" type="traffic_light"/>
+<node id="intersection_3_3" x="800" y="1600" type="traffic_light"/>
+<node id="intersection_3_4" x="800" y="2400" type="priority"/>
+
+
+<node id="intersection_4_0" x="1200" y="-800" type="priority"/>
+<node id="intersection_4_1" x="1200" y="0" type="traffic_light"/>
+<node id="intersection_4_2" x="1200" y="800" type="traffic_light"/>
+<node id="intersection_4_3" x="1200" y="1600" type="traffic_light"/>
+<node id="intersection_4_4" x="1200" y="2400" type="priority"/>
+
+<node id="intersection_5_1" x="1600" y="0" type="priority"/> 
+<node id="intersection_5_2" x="1600" y="800" type="priority"/> 
+<node id="intersection_5_3" x="1600" y="1600" type="priority"/>
+
+</nodes> 
